@@ -1,0 +1,2 @@
+# tables_with_redux_toolkit_test_assignment
+Test assignment with redux toolkit
