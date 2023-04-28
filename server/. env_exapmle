@@ -1,0 +1,2 @@
+PORT='4000'
+DATABASE_URL='postgres://name:pass@localhost:5432/data_base_name'

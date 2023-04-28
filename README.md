@@ -1,2 +1,14 @@
-# tables_with_redux_toolkit_test_assignment
-Test assignment with redux toolkit
+## Запуск клиента
+- cd client
+- npm install
+- npm run dev
+
+
+
+## Запуск сервера
+- cd server 
+- npm install
+- npm run dev
+
+
+- клиент доступен по [ссылке](http://localhost:5173/)
